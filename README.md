@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack
 - 🌱 I’m currently learning (MERN) & NextJS
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me telegram @sogeking7
+- 📫 How to reach me telegram @kair011a
 
 <!---
 sogeking7/sogeking7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
