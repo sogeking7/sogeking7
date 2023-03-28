@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sogeking7
 - 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning (MERN) & NextJS
+- 🌱 I’m currently learning NextJS, Typescript, T3-stack, trpc
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me telegram @kair011a
 
